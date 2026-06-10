@@ -24,6 +24,8 @@ public class Msg91Service {
             case "rider50" -> "https://files.msg91.com/479629/ymddnsjn";
             case "internshipwithimage" -> "https://files.msg91.com/479629/jmzhevhu";
             case "internshipwithimganddesc" -> "https://files.msg91.com/479629/jmzhevhu";
+            case "welcomewithimage" -> "https://files.msg91.com/523252/zxprfweg";
+            case "welcomewithpic" -> "https://files.msg91.com/523252/zxprfweg";
             default -> "https://files.msg91.com/479629/xmyclfjz";
         };
 
